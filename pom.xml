@@ -1,0 +1,37 @@
+<project xmlns="http://maven.apache.org/POM/4.0.0" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+         xsi:schemaLocation="http://maven.apache.org/POM/4.0.0 http://maven.apache.org/maven-v4_0_0.xsd">
+
+    <modelVersion>4.0.0</modelVersion>
+    <!--
+     | POM Relationships
+	-->
+    <groupId>org.isma</groupId>
+    <artifactId>isma-all</artifactId>
+    <version>0.1</version>
+    <!--
+    | Project Information
+    -->
+    <name>tous les projets</name>
+    <description>tous les projets</description>
+    <packaging>pom</packaging>
+
+    <modules>
+		<module>isma-pom</module>
+        <module>isma-utils</module>
+        <module>isma-web-utils</module>
+        <module>isma-tests</module>
+		<module>isma-swing</module>
+		<module>isma-tools</module>
+		<module>isma-project-dirmanager</module>
+		<module>isma-project-memos</module>
+		<module>isma-project-poker</module>
+		<module>isma-project-versusfighting</module>
+		<module>isma-sample-fridge</module>
+		<module>isma-samples-web</module>
+    </modules>
+    <scm>
+        <connection>scm:git:https://github.com/visma/isma-repository.git</connection>
+        <developerConnection>scm:git:https://github.com/visma/isma-repository.git</developerConnection>
+        <url>https://github.com/visma/isma-repository</url>
+    </scm>
+</project>

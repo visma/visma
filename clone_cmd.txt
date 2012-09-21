@@ -1,0 +1,12 @@
+git clone https://github.com/visma/isma-pom.git
+git clone https://github.com/visma/isma-tests.git
+git clone https://github.com/visma/isma-utils.git
+git clone https://github.com/visma/isma-web-utils.git
+git clone https://github.com/visma/isma-swing.git
+git clone https://github.com/visma/isma-tools.git
+git clone https://github.com/visma/isma-sample-fridge.git
+git clone https://github.com/visma/isma-samples-web.git
+git clone https://github.com/visma/isma-project-poker.git
+git clone https://github.com/visma/isma-project-versusfighting.git
+git clone https://github.com/visma/isma-project-memos.git
+git clone https://github.com/visma/isma-project-dirmanager.git

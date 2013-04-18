@@ -6,7 +6,12 @@
 
 ##Optionnal (for UI tests)##
 
-**Prerequisites** : [codjo framework](https://github.com/codjo "codjo")  
+**Prerequisites**  
+  
+UI tests requires [codjo framework](https://github.com/codjo "codjo")  
+To use codjo test-release feature, follow the  [codjo installation procedure](https://github.com/gonnot/codjo-install-workstation "install codjo")  
+visma projects require only 2 codjo modules (using codjo.sh) : "pom" and "release-test"  
+
 **UI test command sample** : visma/isma-project-dirmanager/isma-dirmanager-release-test$ mvn -P codjo test-release:run  
 
 #Description of all programs#

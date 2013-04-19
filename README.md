@@ -35,3 +35,6 @@ It provides a way to save small notes with tags and attachments and a search fea
 **Features**  
 _Tags_ : hierarchicals tags.  
 _Attachments_ : multiples attachments possible.  
+
+**UI Test**  
+disabled at this time due to unsupported database (hsqldb) on codjo-release-test  

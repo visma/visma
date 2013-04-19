@@ -68,6 +68,8 @@ _MainClass_ : `CvMain`
 ##Subtitles synchronizer##
 [Subtitles synchronizer](https://github.com/visma/isma-tools "tools") corrects avi subtitles files.  
 
+This tool corrects possibles shifttimes on subtitles files.  
+
 _Input_ : unsynchronized file  
 _Output_ : synchronized file  
 

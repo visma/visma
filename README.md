@@ -4,7 +4,7 @@
 - download all sub repositories with clone_cmd.txt
 - install all with `mvn install -Dmaven.test.skip.exec=true -P codjo` on visma repository
 
-*if you don't need UI tests command, remove codjo parent int the maven pom file*  
+*if you don't need UI tests command, remove codjo parent in the maven pom file*  
 
 ##Optionnal (for UI tests)##
 
@@ -23,8 +23,8 @@ visma projects require only 2 codjo modules (using codjo.sh) : "pom" and "releas
 
 **Features**  
 _Classic_ : Preview and synchro of differences on same structure  
-_Advanded_ : Preview and synchro of differences on differents structures (paths and filenames)  
-_Clone eradication_ : Preview and eradication of clones files  
+_Advanded_ : Preview and synchro of differences on different structures (paths and filenames)  
+_Clone eradication_ : Preview and eradication of clone files  
 _MainClass_ : `DirManagerLauncher`  
      
 **UI Test**  
@@ -32,11 +32,11 @@ _MainClass_ : `DirManagerLauncher`
 
 ##Memos##
 [Memos](https://github.com/visma/isma-project-memos "memos") is a knowledge base tool.  
-It provides a way to save small notes with tags and attachments and search feature.  
+It provides a way to save small notes with tags and attachments and search features.  
 
 **Features**  
-_Tags_ : hierarchicals tags.  
-_Attachments_ : multiples attachments possible.  
+_Tags_ : hierarchical tags.  
+_Attachments_ : multiple possible attachments.  
 _MainClass_ : `MemosLauncher`  
 
 **UI Test**  
@@ -45,23 +45,23 @@ disabled at this time due to unsupported database (hsqldb) on codjo-release-test
 ##VersusFighting (webapp)##
 [VersusFighting](https://github.com/visma/isma-project-versusfighting "vs") is a versusfighting game tournament manager.  
 Only 1on1 vf games are supported (aka street fighters, blaze blue...), 3on3 are not (aka kof).  
-It's just avoid to use pen and paper.  
+It just avoids to use pen and paper.  
 
 **Features**  
 _Partipants_ : simple participants subscription by nickname.  
 _Game Selection_ : only ssf4 ae edition is actually supported.  
-_Fighter Selection_ : each participant choose X fighters.  
-_Iteration_ : app determinate random opponents order and iterate until only one participant has fighter(s) remaining.
+_Fighter Selection_ : each participant chooses X fighters.  
+_Iteration_ : app determinates random opponents order and iterates until only one participant has fighter(s) remaining.
 
 **UI Test**  
 no UI tests  
 
 ##CV Generator##
 [CV Generator](https://github.com/visma/isma-tools "tools") can generate Html resumes.  
-User provides an xml resume and choose the template, the application generate the Html resume.  
+User provides an xml resume and chooses the template, the application generates the Html resume.  
 
 **Features**  
-_Templates_ : support differents jsp templates (only one available at this time).  
+_Templates_ : support different jsp templates (only one available at this time).  
 _Input_ : input file to provide is xml file, a xsd exists on repository for validation.  
 _MainClass_ : `CvMain`  
 

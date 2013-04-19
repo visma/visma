@@ -39,3 +39,17 @@ _MainClass_ : `MemosLauncher`
 
 **UI Test**  
 disabled at this time due to unsupported database (hsqldb) on codjo-release-test  
+
+##VersusFighting (webapp)##
+[VersusFighting](https://github.com/visma/isma-project-versusfighting "vs") is a versusfighting game tournament manager.  
+Only 1on1 vf games are supported (aka street fighters, blaze blue...), 3on3 are not (aka kof).  
+It's just avoid to use pen and paper.  
+
+**Features**  
+_Partipants_ : simple participants subscription by nickname.  
+_Game Selection_ : only ssf4 ae edition is actually supported.  
+_Fighter Selection_ : each participant choose X fighters.  
+_Iteration_ : app determinate random opponents order and iterate until only one participant has fighter(s) remaining.
+
+**UI Test**  
+no UI tests  

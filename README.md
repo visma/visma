@@ -2,7 +2,7 @@
 
 - clone visma repository (parent of all maven visma repositories)
 - download all sub repositories with clone_cmd.txt
-- install all with mvn install -Dmaven.test.skip.exec=true [-P codjo] on visma repository
+- install all with mvn install -Dmaven.test.skip.exec=true -P codjo on visma repository
 
 ##Optionnal (for UI tests)##
 

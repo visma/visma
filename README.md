@@ -28,7 +28,7 @@ _MainClass_ : `DirManagerLauncher`
 **UI Test**  
 visma/isma-project-dirmanager/isma-dirmanager-release-test$ mvn -P codjo test-release:run 
 
-##Memos##  
+##Memos##
 [Memos](https://github.com/visma/isma-project-memos "memos") is a knowledge base tool.  
 It provides a way to save small notes with tags and attachments and a search feature to find an old note.  
 

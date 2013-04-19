@@ -17,7 +17,7 @@ visma projects require only 2 codjo modules (using codjo.sh) : "pom" and "releas
 #Description of all programs#
 
 ##DirManager##
-Allows files synchronisation between 2 directories
+[DirManager](https://github.com/visma/isma-project-dirmanager "dirmanager") allows files synchronisation between 2 directories
 
 **Features**  
 _Classic_ : Preview and synchro of differences on same structure  

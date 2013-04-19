@@ -65,3 +65,13 @@ _Templates_ : support differents jsp templates (only one available at this time)
 _Input_ : input file to provide is xml file, a xsd exists on repository for validation.  
 _MainClass_ : `CvMain`  
 
+##Subtitles synchronizer##
+[Subtitles synchronizer](https://github.com/visma/isma-tools "tools") corrects avi subtitles files.  
+
+_Input_ : unsynchronized file  
+_Output_ : synchronized file  
+
+_Format_ : .srt supported  
+
+_MainClass_ : `SubtitlesSynchronizerTool`  
+

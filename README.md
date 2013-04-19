@@ -53,3 +53,13 @@ _Iteration_ : app determinate random opponents order and iterate until only one 
 
 **UI Test**  
 no UI tests  
+
+##CV Generator##
+[CV Generator](https://github.com/visma/isma-tools "tools") can generate Html resumes.  
+User provides an xml resume, choose the template, Tool generate the Html resume.  
+
+**Features**  
+_Templates_ : support differents jsp templates (only one available at this time).  
+_Input_ : input file to provide is xml file, a xsd exists on repository for validation.  
+_MainClass_ : `CvMain`  
+

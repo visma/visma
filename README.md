@@ -4,6 +4,8 @@
 - download all sub repositories with clone_cmd.txt
 - install all with `mvn install -Dmaven.test.skip.exec=true -P codjo` on visma repository
 
+*if you don't need UI tests command, remove codjo parent int the maven pom file*  
+
 ##Optionnal (for UI tests)##
 
 **Prerequisites**  

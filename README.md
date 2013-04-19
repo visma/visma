@@ -66,7 +66,7 @@ _Input_ : input file to provide is xml file, a xsd exists on repository for vali
 _MainClass_ : `CvMain`  
 
 ##Subtitles synchronizer##
-[Subtitles synchronizer](https://github.com/visma/isma-tools "tools") corrects avi subtitles files.  
+[Subtitles synchronizer](https://github.com/visma/isma-tools "tools") corrects .avi subtitles files.  
 
 This tool corrects time offsets on subtitles files.  
 

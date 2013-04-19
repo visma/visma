@@ -22,7 +22,7 @@ visma projects require only 2 codjo modules (using codjo.sh) : "pom" and "releas
 **Features**  
 _Classic_ : Preview and synchro of differences on same structure  
 _Advanded_ : Preview and synchro of differences on differents structures (paths and filenames)  
-_Clone eradication_ : Preview and allows deletion of clones files  
+_Clone eradication_ : Preview and eradication of clones files  
 _MainClass_ : `DirManagerLauncher`  
      
 **UI Test**  

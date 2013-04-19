@@ -56,7 +56,7 @@ no UI tests
 
 ##CV Generator##
 [CV Generator](https://github.com/visma/isma-tools "tools") can generate Html resumes.  
-User provides an xml resume, choose the template, Tool generate the Html resume.  
+User provides an xml resume and choose the template, the application generate the Html resume.  
 
 **Features**  
 _Templates_ : support differents jsp templates (only one available at this time).  

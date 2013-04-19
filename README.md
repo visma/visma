@@ -30,7 +30,7 @@ _MainClass_ : `DirManagerLauncher`
 
 ##Memos##
 [Memos](https://github.com/visma/isma-project-memos "memos") is a knowledge base tool.  
-It provides a way to save small notes with tags and attachments and a search feature to find an old note.  
+It provides a way to save small notes with tags and attachments and search feature.  
 
 **Features**  
 _Tags_ : hierarchicals tags.  

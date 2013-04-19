@@ -8,7 +8,7 @@
 
 **Prerequisites**  
   
-UI tests requires [codjo framework](https://github.com/codjo "codjo")  
+UI tests requires [codjo framework](/codjo "codjo")  
 To use codjo test-release feature, follow the  [codjo installation procedure](https://github.com/gonnot/codjo-install-workstation "install codjo")  
 visma projects require only 2 codjo modules (using codjo.sh) : "pom" and "release-test"  
 

@@ -77,8 +77,8 @@ _Format_ : .srt supported
 
 _MainClass_ : `SubtitlesSynchronizerTool`  
 
-##Non-Maven projects##
+##Pacman##
 
-[Pacman](https://github.com/visma/isma-games)  
+[Pacman](https://github.com/visma/isma-pacman)  
 
 

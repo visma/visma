@@ -10,3 +10,5 @@ git clone https://github.com/visma/isma-project-poker.git
 git clone https://github.com/visma/isma-project-versusfighting.git
 git clone https://github.com/visma/isma-project-memos.git
 git clone https://github.com/visma/isma-project-dirmanager.git
+git clone https://github.com/visma/isma-slick.git
+git clone https://github.com/visma/isma-pacman.git

@@ -17,7 +17,7 @@ visma projects require only 2 codjo modules (using codjo.sh) : "pom" and "releas
 **UI test command sample** : 
 
 `visma/isma-project-dirmanager/$ mvn -Dprocess=integration -P codjo`  
-or
+or  
 `visma/isma-project-dirmanager/isma-dirmanager-release-test$ mvn -P codjo test-release:run`
 
 

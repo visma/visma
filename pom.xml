@@ -26,8 +26,10 @@
 		<module>isma-project-memos</module>
 		<module>isma-project-poker</module>
 		<module>isma-project-versusfighting</module>
-		<module>isma-sample-fridge</module>
-<!--		<module>isma-samples-web</module>-->
+		<!--<module>isma-sample-fridge</module>-->
+		<module>isma-samples-web</module>
+        <module>isma-slick</module>
+        <module>isma-pacman</module>
     </modules>
     <scm>
         <connection>scm:git:https://github.com/visma/isma-repository.git</connection>

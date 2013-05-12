@@ -27,7 +27,7 @@
 		<module>isma-project-poker</module>
 		<module>isma-project-versusfighting</module>
 		<!--<module>isma-sample-fridge</module>-->
-		<module>isma-samples-web</module>
+		<!--<module>isma-samples-web</module>-->
         <module>isma-slick</module>
         <module>isma-pacman</module>
     </modules>
